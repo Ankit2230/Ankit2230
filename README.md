@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ankit2230(Ankit Khandelwal :) )
+- 👋 Hi, I’m Ankit Khandelwal :)
 - 👀 I’m interested in Competitive coding,Artificial intelligence,Machine learning
 - 🌱 I’m currently learning Mongo DB
 - 📫 How to reach me Gmail : ankitkh75@gmail.com
